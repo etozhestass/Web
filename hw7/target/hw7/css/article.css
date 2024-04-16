@@ -1,0 +1,17 @@
+article .title {
+    color: var(--caption-color);
+    font-size: 150%;
+    font-weight: bold;
+}
+
+article .information {
+    color: grey;
+    font-size: 80%;
+}
+
+article .text {
+    font-size: 85%;
+    border-left: 4px solid var(--border-color);
+    padding-left: 16px;
+    white-space: pre-wrap;
+}
